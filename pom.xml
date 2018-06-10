@@ -34,6 +34,6 @@
         <module>dummy-java</module>
         <module>dummy-scala</module>
         <module>dummy-spring</module>
-        <module>dummy-camel</module>
+        <!--<module>dummy-camel</module>-->
     </modules>
 </project>
