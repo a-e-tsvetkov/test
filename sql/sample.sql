@@ -5,8 +5,8 @@ use test;
 
 create table master(
     id int(11),
-name varchar(50),
-primary key (id)
+    name varchar(50),
+    primary key (id)
 );
 
 create table detail(

@@ -2,13 +2,12 @@ package dummy;
 
 
 import org.junit.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
+import org.mockito.junit.jupiter.MockitoExtension;
 
-import static org.junit.Assert.assertTrue;
-
+@ExtendWith(MockitoExtension.class)
 public class AppTest {
     @Test
     public void testApp() {
-
-        assertTrue(true);
     }
 }
