@@ -45,6 +45,7 @@
         <module>dummy-java-8</module>
         <module>dummy-scala</module>
         <module>dummy-spring</module>
+        <module>jmh-java</module>
     </modules>
 
     <profiles>
